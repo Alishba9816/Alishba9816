@@ -1,85 +1,98 @@
 # Hi there, I'm Alishba Andleeb 👋
 
-### ML Engineer | Python Developer | Computer Vision Enthusiast
+### ML Engineer | Python Automation Specialist | Computer Vision Enthusiast
 
-I'm passionate about building practical AI solutions that solve real-world problems. With 2 years of experience in automation and data engineering at Huawei, I'm now focused on ML/AI engineering and building production-ready systems.
+I'm passionate about building practical AI solutions that solve real-world problems. With 2 years of hands-on experience automating workflows and building data-driven systems at Huawei, I'm now focused on ML/AI engineering and creating production-ready applications.
+
+🔧 **Tech Stack:** Python, PyTorch, Flask, Docker  
+💼 **Experience:** 2 years at Huawei (Python Automation & RPA)  
+🎯 **Currently:** Building deployable ML systems & hunting for AI Engineer roles mainly  
+📍 **Location:** Islamabad, Pakistan 🇵🇰
 
 ---
 
 ## 🔭 What I'm Working On
 
-- 🤖 Building production-ready ML systems with FastAPI and Docker
-- 📸 Computer Vision projects using PyTorch and YOLO
-- 🧠 Exploring LLMs and RAG-based applications
-- 📊 Creating end-to-end ML pipelines from data to deployment
-- 🔧 Automating workflows with Python, UiPath, and RPA tools
+- 🤖 Building production-ready ML APIs with FastAPI and Docker
+- 📸 Computer Vision projects using PyTorch, ResNet, and YOLO
+- 🧠 Exploring LLMs, RAG systems, and real-world AI applications
+- 📊 Creating end-to-end workflows from data extraction to deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- Python | SQL | JavaScript
+- Python | SQL | JavaScript (basic)
 - PyTorch | TensorFlow | Scikit-learn
 - FastAPI | Flask | Streamlit
 
-**ML/AI Tools:**
-- Computer Vision: OpenCV, YOLO, ResNet, EfficientNet
-- NLP: HuggingFace Transformers, LangChain
-- Data: Pandas, NumPy, Matplotlib, Seaborn
+**ML/AI:**
+- Computer Vision: OpenCV, ResNet50, YOLOv8, EfficientNet
+- NLP: HuggingFace Transformers, LangChain (learning)
+- Data Processing: Pandas, NumPy, openpyxl
 
 **Automation & DevOps:**
+- Python scripting | Selenium | API integration
 - Docker | Git | Postman
-- Selenium | UiPath | WeAutomate
-- PostgreSQL | FAISS
+- PostgreSQL | Excel automation
 
-**Cloud & Deployment:**
-- Learning: AWS, Huawei Cloud
-- Deploy: Render, Railway, Streamlit Cloud
+**Deployment:**
+- Render | Railway | Streamlit Cloud
+- Learning: AWS, Docker containers
 
 ---
 
 ## 💼 Experience
 
-**Python Automation Engineer** @ Huawei (Aug 2022 - Aug 2024)
-- Automated 50+ weekly data reports using Python, reducing manual effort by 80%
-- Built data pipelines processing 10,000+ records daily with Pandas and REST APIs
-- Developed Excel automation tools with openpyxl, Selenium, and API integrations
-- Created dashboards for quality control and safety metrics
+### **Python Automation Engineer** @ Huawei Technologies (Aug 2022 - Aug 2024)
+*Islamabad, Pakistan*
 
-**GenAI Engineer Intern** @ ITSOLERA (Jul - Nov 2024)
-- Built fashion recommendation system using ResNet50 and KNN similarity
-- Contributed to virtual try-on (VITON) model training and dataset preparation
-- Developed interactive Streamlit apps for ML model demos
-- Worked with LLM-based chatbot development using LLaMA
+Built Python automation systems that transformed manual workflows into efficient, automated processes:
+
+- ⚡ Automated recurring reporting processes using Python (Pandas + Excel), reducing manual effort and saving hours of team time
+- 📊 Processed and transformed data from portals, documents, and APIs using automated pipelines (openpyxl, requests, Selenium)
+- 🔗 Integrated internal REST APIs to fetch real-time data for automated dashboards and reporting workflows
+- 🤖 Automated form submissions and data entry tasks across internal systems, improving accuracy and speed
+- 🧹 Cleaned, validated, and structured datasets from unstructured sources (PDFs, Excel files, web portals) for analysis and reporting
+- 📈 Supported data pipelines used for dashboards by automating data preparation steps end-to-end
+
+
+**Impact:** Transformed time-consuming manual processes into automated workflows, directly improving team productivity and data accuracy.
+
+---
+
+### **GenAI Engineer Intern** @ ITSOLERA (Jul - Nov 2024)
+*Remote*
+
+Worked on cutting-edge AI projects in a fast-paced startup environment:
+
+- 🛍️ **Fashion Recommendation System:** Contributed to building a clothing similarity engine using ResNet50 for feature extraction and KNN for retrieval
+- 👗 **Virtual Try-On (VITON) Project:** Assisted in dataset preparation (5,000+ garment-person pairs), fixed data loading issues, and helped with model training
+- 💬 **LLM-based Mental Health Chatbot:** Worked with team on LLaMA integration for conversational AI
+- 🎨 **Built interactive demos** using Streamlit to showcase ML model outputs to stakeholders
+
+**Key Learning:** Gained hands-on experience with deep learning workflows, model training pipelines, and collaborative AI development.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Fashion Image Recommender](#)
-Deep learning-based clothing similarity engine using ResNet50 feature extraction and KNN retrieval. Built with FastAPI and deployed on Render.
+### 🔹 [Fashion Image Recommender](https://github.com/alishba-andleeb/fashion-recommendation-api)
+A clothing similarity engine that recommends visually similar fashion items using deep learning.
 
-**Tech:** Python, PyTorch, ResNet50, FastAPI, Docker  
-**What it does:** Upload an image → Get 5 similar fashion items
+**Tech:** Python, PyTorch, ResNet50, KNN, Flask, Docker  
+**What it does:** Upload a clothing image → Get top 5 similar items based on visual features  
+**Status:** ✅  Completed during ITSOLERA tenure | 🚧 Deploying this week
 
-### 🔹 [Real-Time Object Detection System](#)
-YOLOv8-powered object detection API with Streamlit frontend for real-time inference on images and video.
+---
 
-**Tech:** YOLOv8, FastAPI, Streamlit, OpenCV  
-**What it does:** Detect objects in images/webcam feed in real-time
-
-### 🔹 [RAG Document Q&A Chatbot](#)
-Retrieval-augmented generation chatbot that answers questions from uploaded PDFs using vector embeddings and LLMs.
-
-**Tech:** LangChain, HuggingFace, FAISS, Streamlit  
-**What it does:** Upload PDF → Ask questions → Get AI-powered answers
-
-### 🔹 [SA QC EHS Dashboard](#)
-Real-time quality control and safety metrics dashboard built during Huawei tenure.
+### 🔹 SA QC EHS Dashboard *(Huawei Project)*
+Real-time dashboard for tracking quality control, safety metrics, task counts, and failure rates.
 
 **Tech:** Python, Pandas, API Integration, Data Visualization  
-**What it does:** Track metrics, failure rates, and generate insights for stakeholders
+**What it does:** Automated backend pipeline to extract, analyze, and visualize operational metrics  
+**Status:** ✅ Completed during Huawei tenure
 
 ---
 
@@ -88,55 +101,56 @@ Real-time quality control and safety metrics dashboard built during Huawei tenur
 **BS Software Engineering** | University of Poonch Rawalakot (2017-2021)  
 CGPA: 3.36/4.0
 
+**Relevant Coursework:** Machine Learning, Data Structures, Database Systems, Software Engineering
+
 ---
 
-## 🌟 What Sets Me Apart
+## 🌟 What Makes Me Different
 
-✨ **2 years of real-world Python experience** at enterprise level (Huawei)  
-✨ **Strong in both automation AND machine learning** (rare combination)  
-✨ **End-to-end project experience** from data prep to deployment  
-✨ **Fast learner** who ships actual working projects, not just tutorials  
-✨ **Open to** full-time, remote, contract, or freelance opportunities
+✨ **2 years of real-world Python automation** at enterprise scale (Huawei)  
+✨ **Strong foundation in both automation AND machine learning** (rare combination)  
+✨ **Proven track record of shipping working solutions** that directly improved team efficiency  
+✨ **Fast learner who builds real projects**, not just tutorials  
+✨ **Self-driven:** Actively upskilling in PyTorch, FastAPI, and deployment while job hunting
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/alishba-andleeb](https://linkedin.com/in/alishba-andleeb)
+- 💼 LinkedIn: [linkedin.com/in/alishba-andleeb](https://www.linkedin.com/in/alishba-andleeb)
 - 📧 Email: alishbaandleeb971@gmail.com
-- 📍 Location: Islamabad, Pakistan 🇵🇰
-- 🌐 Portfolio: Coming Soon
-
----
-
-## 📊 GitHub Stats
-
-![Alishba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+- 🌐 Portfolio: Under construction (coming soon!)
 
 ---
 
 ## 💡 Currently Learning
 
-🔹 Advanced PyTorch & Model Optimization  
-🔹 MLOps & CI/CD for ML Systems  
-🔹 Cloud Deployment (AWS/GCP)  
-🔹 Research Paper Implementation
+🔹 Advanced PyTorch & Computer Vision  
+🔹 FastAPI & Docker for ML deployment  
+🔹 Research paper implementation (YOLO, Vision Transformers)  
+🔹 MLOps & production ML systems
 
 ---
 
-## 🎯 Open to Opportunities In
+## 🎯 Open to Opportunities
 
-- Machine Learning Engineer
-- AI Engineer  
-- Python Developer
+- Machine Learning Engineer (Junior/Mid-level)
+- AI Engineer / Computer Vision Engineer
+- Python Developer (Backend/Automation)
 - Data Engineer
-- Automation Engineer
-- Computer Vision Engineer
-- Backend Engineer (Python/FastAPI)
+- RPA Developer / Automation Engineer
+
+**Looking for:** Full-time, remote, or hybrid roles in Pakistan or internationally
 
 ---
 
-⭐️ *"I don't just learn ML—I build and deploy it."*
+## 📊 GitHub Activity
+
+*Building in public—check out my pinned repos below! More projects coming soon as I build my portfolio.*
+
+---
+
+⭐️ *"I don't just learn tech—I automate, build, and deploy it."*
 
 ---
 
